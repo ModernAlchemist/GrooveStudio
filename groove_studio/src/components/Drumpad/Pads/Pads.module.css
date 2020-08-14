@@ -1,0 +1,11 @@
+.Pads {
+    width: 23em;
+    height: 23em;
+    display: flex;
+    align-items: center;
+}
+.PadsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

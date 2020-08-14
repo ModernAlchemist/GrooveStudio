@@ -1,0 +1,33 @@
+.PadControls {
+    background-color: burlywood;
+    width: 35%;
+    height: 23em;
+    display: inline-block;
+    margin: auto 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.PadControls > div > * {
+    margin: 20px auto;
+}
+
+.SoundInfo {
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.SoundLabel {
+    width: 50px;
+}
+
+.SoundName {
+    height: 25px;
+    background-color: #fffffc;
+    width: 150px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,10 @@
+.Drumpad {
+    background-color: #383f51;
+    width: 800px;
+    height: 400px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 1%;
+}
